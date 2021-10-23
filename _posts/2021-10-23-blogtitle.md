@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
 Create a blog post
 ⚠️ Do not merge yet! ⚠️
 
